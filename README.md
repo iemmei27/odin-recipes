@@ -1,5 +1,5 @@
 # odin-recipes
-Intro
+<p>Intro</p>
 This project is about applying what I have learned at The Odin Project regarding HTML. Skills that I have demonstrated are listed below:
 
 - making the HTML boilerplate
