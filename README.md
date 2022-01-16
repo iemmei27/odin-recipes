@@ -7,5 +7,5 @@ This project is about applying what I have learned at The Odin Project regarding
 - make unordered and ordered lists
 - add links and photos
 
-see link below:
+click link:
 <a href="https://iemmei27.github.io/odin-recipes/">Odin Recipes</a>
